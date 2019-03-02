@@ -1,0 +1,13 @@
+.d{
+    background-color: rgba(234, 250, 11, 0.972);
+}
+a:hover{
+    color: brown;
+    background-color: aqua;
+    border: 2px solid red;
+    margin: 2px
+}
+span:hover{
+    color: aqua;
+    background-color: azure;
+}
