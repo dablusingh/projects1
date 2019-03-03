@@ -36,7 +36,7 @@ html,body{
     padding-bottom: 1rem;
 }
 .btn-primary{
-    background-image: #6648b;
+    background-image: blue;
     border:1px solid green;
 }
 .btn-primary:hover{
@@ -169,14 +169,14 @@ figure{
     -webkit-transform: translateZ(0);
             transform: translateZ(0);
     will-change:transform;
-}\
+}
 /* bootstrap padding Fix */
 class*="col-"{
     padding:1rem;
 }
 
-/* 
-Extra small(xs) device   */
+
+Extra small(xs) device  
 
 .carousel{
     
