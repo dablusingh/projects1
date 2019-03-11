@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: url("../image/google1.jpg");
+    background-attachment: fixed;
+}
+.jumbotron{
+    padding: 3rem 2rem;
+    background: linear-gradient(orange,white,green);
+    text-transform: uppercase;
+}
+#left{
+    text-align: left;
+    text-transform: capitalize;
+}
+#right{
+    text-align: right;
+}
+#center{
+    text-align:center;
+    text-transform: capitalize;
+}
+#padding{
+    padding: 3px;
+    margin-top: 0px;
+}
+#orange{
+    background-color:orange;
+}
+#white{
+    background-color: white;
+}
+#green{
+    background-color: green;
+}
+ .carousel-inner{
+      width: 100%;
+      height: 100%;
+      float:center;
+  }
+#amazon{
+    padding-top: 3px;
+}
+#flipkart{
+    padding-top: 5px;
+}
+h3{
+    margin-top: 9px;
+}
+/* slide */

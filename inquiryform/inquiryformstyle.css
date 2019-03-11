@@ -1,0 +1,29 @@
+body{
+    background:url("../image/bird1.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.form-group{
+    margin-left: 33.33%;
+    margin-right: 33.33%;
+}
+.btn{
+    margin-left: 33.33%;
+    margin-right: 33.33%;
+}
+.display-1{
+    text-align: center;
+    color: red;
+    text-shadow: 10px 2px 3px black;
+}
+.backimage{
+    background:rgba(0, 0, 0, 0.363);
+    color: white;
+}
+.reset{
+    margin-left: 40%;
+    margin-top: -3%;
+    margin-right: -3%;
+}
+

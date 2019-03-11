@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+   background:url('../image.1/beach3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+ul li{
+   margin: 0 20px;
+    list-style-type: none;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    
+}
+ul li a:hover{
+    background-color: rgba(0, 128, 0, 0.698);
+    padding: 20px;
+    transition: 0.02s;
+}
